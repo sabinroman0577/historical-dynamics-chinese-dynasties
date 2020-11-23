@@ -1,4 +1,4 @@
-Code and data associated to with the article "Historical dynamics in the Chinese Dynasties" submitted to Heliyon. The data on territorial areas is from:
+Code and data associated to with the article "Historical dynamics in the Chinese Dynasties" submitted for publication. The data on territorial areas is from:
 
 Song, Yan. 1994. “Estimation of Territory Areas of Several Dynasties in Chinese History”. In Research on the theory of history, p. 150. Retrieved from https://kreader.cnki.net/Kreader/CatalogViewPage.aspx?dbCode=CJFQ&filename=SXLL199403017&tablename=CJFD9495 on March 11, 2020.
 
